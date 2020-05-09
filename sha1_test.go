@@ -1,9 +1,4 @@
-/*
-# @Author ww
-# @Time 2019/8/26 11:37
-# @File sha1_test.go.go
-*/
-package src
+package util
 
 import (
 	"fmt"

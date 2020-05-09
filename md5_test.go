@@ -1,9 +1,4 @@
-/*
-# @Author ww
-# @Time 2019/8/26 11:01
-# @File md5_test.go.go
-*/
-package src
+package util
 
 import (
 	"testing"
